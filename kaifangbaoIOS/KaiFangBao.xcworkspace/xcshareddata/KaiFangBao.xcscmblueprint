@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "010786D301AD0155161CC8A2CFDD1CE3F07AFFC0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F98FA22D2065BB30D8FA9756FBC979ABF88647B9" : 0,
+    "010786D301AD0155161CC8A2CFDD1CE3F07AFFC0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "14BAFA1A-0309-4D45-8F29-A4C6D44375AC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F98FA22D2065BB30D8FA9756FBC979ABF88647B9" : "fybios\/",
+    "010786D301AD0155161CC8A2CFDD1CE3F07AFFC0" : "kaifangbaoIOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KaiFangBao",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KaiFangBao.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/gerrit.fangdd.cn:29418\/fangdd\/xinfang\/kaifangbaoIOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "010786D301AD0155161CC8A2CFDD1CE3F07AFFC0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/gerrit.fangdd.cn:29418\/fangdd\/xinfang\/fybios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F98FA22D2065BB30D8FA9756FBC979ABF88647B9"
+    }
+  ]
+}

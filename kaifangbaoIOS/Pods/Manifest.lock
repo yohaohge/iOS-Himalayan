@@ -1,0 +1,59 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - DZNEmptyDataSet (1.7.3)
+  - FrameAccessor (2.0)
+  - FSCalendar (2.0.1)
+  - GTMBase64 (1.0.0)
+  - JSONModel (1.2.0)
+  - MJRefresh (3.1.0)
+  - pop (1.0.9)
+  - Reveal-iOS-SDK (1.6.2)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - Shimmer (1.0.2)
+  - WSProgressHUD (1.1.0):
+    - Shimmer
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.4)
+  - DZNEmptyDataSet (~> 1.7.3)
+  - FrameAccessor (~> 2.0)
+  - FSCalendar (~> 2.0.1)
+  - GTMBase64 (~> 1.0.0)
+  - JSONModel (~> 1.2.0)
+  - MJRefresh (~> 3.1.0)
+  - pop (~> 1.0.9)
+  - Reveal-iOS-SDK (~> 1.6.2)
+  - SDWebImage (~> 3.7.5)
+  - WSProgressHUD (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  DZNEmptyDataSet: dd7cca17c1d07dfa78956859b1e70a52505678ef
+  FrameAccessor: 443a13e58e23a10ff22180da0897b28c3f6abf66
+  FSCalendar: 18117308f5876a8f6f0fe572085d543580c2c5e5
+  GTMBase64: 0da7372e95f5171f3f652db38cde6716f8eb5e24
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+  Reveal-iOS-SDK: e2250b3c155bcfac53ae223ddc1f76d08f206c33
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  WSProgressHUD: 1304d6445ca683dfc71c48a43c9e9d0d6ad021c9
+
+COCOAPODS: 0.39.0
