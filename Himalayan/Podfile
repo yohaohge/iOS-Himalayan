@@ -1,0 +1,6 @@
+
+
+
+pod 'FrameAccessor'
+pod 'SDWebImage'
+pod 'Masonry'
